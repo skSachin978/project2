@@ -1,2 +1,2 @@
-# by Created
-created by Sachin Kumar
+#  New Project
+This project is created by Sachin Kumar
